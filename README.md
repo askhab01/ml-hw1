@@ -1,6 +1,6 @@
 # ДЗ 1. Регрессия для цены подержанных автомобилей
 
-Приложение в Streamlit Community Cloud: **ВСТАВИТЬ ССЫЛКУ ПОСЛЕ ДЕПЛОЯ**
+Приложение в Streamlit Community Cloud: **(https://ml-hw1-cars.streamlit.app/)**
 
 ## Что лежит в репозитории
 
